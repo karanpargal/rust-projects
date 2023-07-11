@@ -1,6 +1,7 @@
 use inquire::Select;
 mod order;
 mod products;
+mod utils;
 
 use order::place_order;
 use products::view_products;
