@@ -1,4 +1,3 @@
-use std::io;
 use inquire::Select;
 mod order;
 mod products;
